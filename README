@@ -3,3 +3,5 @@ in that it allows convenient iteration over a result set while closing the itera
 end.  This also provides a convenient way to add rows and columns to a table in a builder-style
 fashion, as well as more streamlined access to HBase's table creation and manipulation 
 features.
+
+HBaseBuilder is currently compatible with HBase 0.19.  
